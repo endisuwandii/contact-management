@@ -1,4 +1,4 @@
-# 📒 Contact Management SPA
+# 📒 Contact Management 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Endisuwandii/assets/img/phone-book-contacts-svgrepo-com.svg" alt="Contact Management Logo" width="120">
@@ -33,6 +33,6 @@ A clean, lightweight Single Page Application (SPA) for managing contacts directl
 Clone the repository and run it locally without any complex setup:
 
 ```bash
-git clone [https://github.com/Endisuwandi05/Contact-Management.git](https://github.com/Endisuwandi05/Contact-Management.git)
+git clone [https://github.com/Endisuwandii/Contact-Management.git](https://github.com/Endisuwandii/Contact-Management.git)
 cd Contact-Management
 # Open index.html in your browser, or use VSCode Live Server
