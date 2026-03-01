@@ -28,7 +28,7 @@ A clean, lightweight Single Page Application (SPA) for managing contacts directl
 
 ---
 
-## ⚡ Quick Start
+
 
 Clone the repository and run it locally without any complex setup:
 
